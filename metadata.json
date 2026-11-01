@@ -1,0 +1,6 @@
+{
+  "name": "Centralized Library Management System",
+  "description": "Production-ready centralized Library Management System supporting Admin, Librarian, and Student roles with advanced features for cataloging, reserving, borrowing, fine collection, and system auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
